@@ -1,15 +1,14 @@
 {
     "LDAP": {
         "server": "172.22.1.1",
-        "port": "389",
+        "port": 389,
         "version": 3,
+        "organization": "HTLLE",
+        "organizational_unit": "OU_USER",
         "credentials": {
-            "username": {
-                "common_name": "141wl20",
-                "organizational_unit": "OU_USER",
-                "organization": "HTLLE"
-            },
-            "password": "notmyrealpassword"    
-        }
+            "username": "",
+            "password": ""
+        },
+        "exchangeRate": 250
     }
 }
