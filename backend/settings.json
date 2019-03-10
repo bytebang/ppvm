@@ -1,0 +1,14 @@
+{
+    "LDAP": {
+        "server": "172.22.1.1",
+        "port": 389,
+        "version": 3,
+        "organization": "HTLLE",
+        "organizational_unit": "OU_USER",
+        "credentials": {
+            "username": "",
+            "password": ""
+        },
+        "exchangeRate": 250
+    }
+}
