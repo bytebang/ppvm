@@ -1,7 +1,6 @@
 from helpers.Config import Config
 from helpers.Tools import Tools
 from ldap3 import Connection, Server, ALL, SUBTREE
-import getpass
 
 LDAPAuthType = {
     "LOGIN": 0x001f,
