@@ -10,5 +10,8 @@
             "password": ""
         },
         "exchangeRate": 250
+    },
+    "CCTalk": {
+        "serial": "/dev/tty.usbserial-whEMP00305316"
     }
 }
